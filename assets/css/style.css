@@ -1,0 +1,14 @@
+body {
+  background-color: #4CF05B;
+  place-items: center;
+}
+
+h2{
+  color: #fff;
+  font-size: 55 px;
+}
+
+p {
+  color: #fff;
+  font-size: 25 px;
+}
